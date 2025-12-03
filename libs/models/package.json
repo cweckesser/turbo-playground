@@ -14,8 +14,7 @@
 	},
 	"scripts": {
 		"clean": "rimraf ./dist",
-		"build": "tsc",
-		"test": "vitest"
+		"build": "tsc"
 	},
 	"devDependencies": {
 		"@types/node": "*",
