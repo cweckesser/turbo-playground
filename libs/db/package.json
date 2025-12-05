@@ -14,7 +14,8 @@
 	},
 	"scripts": {
 		"clean": "rimraf ./dist",
-		"build": "tsc"
+		"build": "tsc",
+		"test": "vitest"
 	},
 	"dependencies": {
 		"models": "workspace:*",
